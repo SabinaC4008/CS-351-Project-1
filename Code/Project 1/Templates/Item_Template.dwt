@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+<link rel="stylesheet" href="../Project 1/Project Pages/CSS/css-project-1.css">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<div class="container">
+		<div class="top">
+			<a href="../Project 1/Templates/project1home.html" class="link-opacity-10"><img src="../Project 1/ProjectImage/logo.png" alt="Logo" width = "225"> Celestal Jewels</a>
+		</div>
+		<nav class="nav_bar">
+			<div class="row">
+				<div class = "col"><a class = "btn" href="https://csweb01.csueastbay.edu/~wv2398/Project%201/Project%20Pages/home.html">Home</a></div>
+				<div class = "col"><a class = "btn" href="https://csweb01.csueastbay.edu/~wv2398/Project%201/Project%20Pages/shop.html">Shop</a></div>
+				<div class = "col"><a class = "btn" href="https://csweb01.csueastbay.edu/~wv2398/Project%201/Project%20Pages/account.html">Account</a></div>
+			</div>
+		</nav>
+		<div class = "main_content">
+			<div class="row">
+				<!-- TemplateBeginEditable name="page_title" -->
+					<h3>Title</h3>
+		    	<!-- TemplateEndEditable --> </div>
+			<div class="row">
+				<div class = "col">
+					<!-- TemplateBeginEditable name="product_image" -->
+					<img src="../Project 1/Templates/.jpg" alt="Alternate Name" class="itemPic">
+					<!-- TemplateEndEditable --> 
+				</div>
+			 	<div class = "col">
+					<p>
+						<b>Creator: </b> 
+							<!-- TemplateBeginEditable name="creator_name" -->
+								Creator of the Item
+							<!-- TemplateEndEditable -->
+						<br> <b>Item Descripton:</b> <br>
+						<!-- TemplateBeginEditable name="item_description" -->
+						Description of the Item
+						<!-- TemplateEndEditable --></p>
+					
+			  </div>
+			  	<div class = "col">
+				  <div class = "row">
+						<div class = "col">
+							<div class = "cart">
+						
+								<div class = "main_text">
+									<p>
+										Price: $
+										<!-- TemplateBeginEditable name="EditRegion5" -->
+											2.99
+										<!-- TemplateEndEditable -->
+										<br>
+									    Quantity Avalible:<!-- TemplateBeginEditable name="amount_avalible" -->&nbsp;10<!-- TemplateEndEditable --> </p> 
+										<a class = "btn" href="">Add to Cart</a>
+								</div>
+							</div>
+						</div>
+						<div class = "col">&nbsp;</div>
+					</div>
+				</div>
+			</div>
+	    </div>
+		<div class = "main_content">
+			&nbsp;
+		</div>
+		<nav class="bottom_nav_bar" >
+			<div class = "row">
+				<div class = "col">Contact Us</div>
+				<div class = "col">Careers</div>
+				<div class = "col">About Us</div>
+			</div>
+		</nav>
+</div>
+</html>
