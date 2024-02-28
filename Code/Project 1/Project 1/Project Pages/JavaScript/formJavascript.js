@@ -1,11 +1,11 @@
 // JavaScript Document
-function LoginEmail(emailInput) {
+LoginEmail(emailInput) {
      return (emailInput.length < 8) return false;
      if (item.indexOf ('@') == -1) return false;
      return true;
 }
 function LoginUsername(usernameInput) {
-	return (username.length < 8) return false;
+	return (username.length < 8);
 }
 
 function LoginPasswords(passwordInput) {
